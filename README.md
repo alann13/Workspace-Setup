@@ -11,6 +11,7 @@ This repo hosts my development config/instructions setup to paste in new laptops
 - [Git](https://git-scm.com/downloads)
 - [Google Chrome](https://www.google.com/intl/en_ca/chrome/)
 - [Microsoft Edge](https://www.microsoft.com/en-us/edge)
+- [NodeJS](https://nodejs.org/en/)
 - [Postman](https://www.postman.com/downloads/)
 - [Robo 3T](https://www.robomongo.org/download)
 - [Visual Studio Code](https://code.visualstudio.com/download)
