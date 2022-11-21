@@ -47,6 +47,7 @@ This repo hosts my development config/instructions setup to paste in new laptops
 <summary>Setups Docs</summary>
 
 - SSH keys [Docs](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
+- WSL2 install [Docs](https://learn.microsoft.com/en-us/windows/wsl/install)
 </details>
 
 <details>
