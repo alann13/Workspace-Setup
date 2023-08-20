@@ -10,6 +10,7 @@ This repo hosts my development config/instructions setup to paste in new laptops
 - [Firefox Developer Edition](https://www.mozilla.org/en-US/firefox/developer/)
 - [Git](https://git-scm.com/downloads)
 - [Google Chrome](https://www.google.com/intl/en_ca/chrome/)
+- [Jetbrains Toolbox](https://www.jetbrains.com/lp/toolbox/)
 - [Microsoft Edge](https://www.microsoft.com/en-us/edge)
 - [NodeJS](https://nodejs.org/en/)
 - [Postman](https://www.postman.com/downloads/)
@@ -24,22 +25,18 @@ This repo hosts my development config/instructions setup to paste in new laptops
 
 - Docker by Microsoft
 - DotENV by mikestead
-- ES7 React/Redux/Graphql Snippets by dsznajder
 - ESLint by Microsoft
 - GitLens by GitKraken
 - GraphQL by Graphql Foundation
 - Material Icon Theme by Philipp Kief
 - Prettier by Prettier
-- PostCSS Language Support by csstools
 - Project Manager by Alessandro Fragnani
+- WSL by Microsoft
 
 ## Optional Extensions
 
 - Live Server by Ritwick Dey
 - Shopify liquid by Shopify
-- Tailwind CSS IntelliSense by Tailwind Labs
-- Vetur by Pine Wu
-- Vue Language Features by Johnson Chu
 
 </details>
 
