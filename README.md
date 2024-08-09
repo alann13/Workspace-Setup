@@ -22,9 +22,7 @@ This repo hosts my development config/instructions setup to paste in new laptops
 - DotENV by mikestead
 - ESLint by Microsoft
 - GraphQL by Graphql Foundation
-- Material Icon Theme by Philipp Kief
 - Prettier by Prettier
-- Project Manager by Alessandro Fragnani
 - Shopify liquid by Shopify
 - WSL by Microsoft
 

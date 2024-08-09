@@ -3,7 +3,9 @@
   "editor.bracketPairColorization.enabled": true,
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "editor.formatOnSave": true,
+  "editor.fontFamily": "Dank Mono",
   "editor.minimap.enabled": false,
+  "editor.stickyScroll.enabled": false,
   "editor.tabSize": 2,
   "emmet.includeLanguages": {
     "javascript": "javascriptreact",
@@ -12,11 +14,10 @@
   "explorer.confirmDelete": false,
   "explorer.confirmDragAndDrop": false,
   "files.autoSave": "off",
+  "git.confirmSync": false,
   "javascript.updateImportsOnFileMove.enabled": "always",
-  "security.workspace.trust.untrustedFiles": "open",
   "telemetry.telemetryLevel": "off",
   "typescript.updateImportsOnFileMove.enabled": "always",
-  "workbench.iconTheme": "material-icon-theme",
   "workbench.sideBar.location": "right",
   "workbench.startupEditor": "none",
   "window.zoomLevel": 1
